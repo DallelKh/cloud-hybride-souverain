@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anthos-test-358709",
+  "private_key_id": "bd7c7e1930ee118cc9985c4d9816ff928ecb9fcb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCR3wRub+B4AbQk\nbe+sodVNmEWnL9zXx8bBY4vXMhUgP79NXQcApWmltd2YcQfMmxev/E6iuxyv1THm\niystPd5hjeiChK0XeSGTNLz3syf8KlRThsNEzEdvTK0/aDeIY8VcHOwbowLpkAy2\nxk9il/XxzxSgMn2qDTEqNiXpujh9lXwuNU7u9ZeezemTJL1ZqDV81Td6flTlUaWi\njeRpsWyQjJlMfc4fk22P8uWkVSlw6sb7BzE66YOxIeHYzAyEiqV6KnSgevCwH72Z\n6WXyBRxtH3k+B/purLYuSP8WaT0n6MT92udOfUU5+fxDQ8wb7bT/pOPGUd64irUW\n8sW4G3p9AgMBAAECggEABcEHgo23i977//s1hZiapTrDoJ0tjSDMcSDKntyoYwMb\nZONYXTOpL7K1VjKQjVx0JOqDID3Y8KysZmeIoU+79RrXwvJAhlkDtIlTh5fRv3Yx\n/lt7WhGOzc/3U4rPtKRu4BEkqnsV0yht//W2+EYomvcWsrJbLPk5PmzatlYKAsDI\nDDOfTV9eeHeLJZjkuNQCjFuPml+rcu1wfTMsUwa8nifxbZafDCudx6pj2MxUDDyx\nV8F3keigL+mUjHF9vHH2CZVgqJo2N2BS3J/pUMbrGj9abMiBfQwmj9QcI2Uc9DX5\n1NYQN2XGzTQSp+L97tD2+7Du7FqM+uCDR9wp080k8QKBgQDBUu8PURyXisQZnW2+\nQ+9Yv/7fYakGQVIAjG2v21vp4evHarD4UPmZ0Y+012omlI4GLBBXnTvJqwBJTQ66\naAeCb6WNchLGEBINWyYDjkeMp7iVLzMTVu1ERnQNy8OUcj9hJxUJhIOg2uf3/Azf\nPmkDlAFeJ23r1AzHbPG3biX6xQKBgQDBKbP8aT9kilcwthYYpQ53ZaqpLFS461/w\nnQRPeLDQrRZW544nioECaCKTGUAGMC5RfcPNeyHK7+w9r8w5FJqGfgaFcbEVn3SR\n5g7U+kVF2RAkoE71fu+o92UcpfDvIoghIVVzF39CNIBc2EpNhIUolVqLaxXslBl/\n+MkFci7cWQKBgHs7kogA/GjdXAO4BqyyQXAhcyaR6lzCZrNS0Ni4y+5axSFpMUYY\n2ALlQuXUKyZMq/vjOseewu3aw2P2at0IU0EiSjXP8Yev1tIMuD6sA4/1mgP/Al/h\nmX1cK75flVybNyuG7jIS9pUi9ZtuYAYukmJlhjmuiLM7iKnXGH4FCNDBAoGACl/z\nCtucTAoiJLui9C/pVwBe6jc3VbdOr92/HYWd+ZdSW9iUCgumYjq1oLD6f1qXIkle\n+upiJkQ8rBOFJIu2wQKD1ycEG+U0naF9qnLGxbmi5FS36PeoZ6riA2fmSPHR3fWs\nYUIh06x+OH5lf0Re4o8jDdnyk4Jg3D7AjUpUugECgYATwW5G7nmytnmVYE6xJLgK\nMbRuFWO9AhJzbZS8/VDex9kb7op0I8BZU7zCj7fanvS0Uyo4MKFBN2Dik32377Xf\n1LA6kAXorO6mVgCYpgO0cJ1QGsbMovdF8uxJ42XFOLjQpUxr0rra0TPLs6nswCcV\nOSmoabI5fciwD97sbKeLBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "baremetal-gcr@anthos-test-358709.iam.gserviceaccount.com",
+  "client_id": "103305769145379403510",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/baremetal-gcr%40anthos-test-358709.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anthos-test-358709",
+  "private_key_id": "b72940e404a358356c76d071737350e1217be0b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3jhMv+hQUYdfQ\n2aXnvyoXTa63YAAVumg4OPK2BDvxWveLq1Vily0a1Nc+r03p6B9rdpzrTFmhL0MJ\nxKARW1DSZc9/htGtCiEA1A8ht4Mis7qqsr4ZCoy7jgs21XUmuJORz9nkofqEmYZz\n1lWtyHzguAaOMNZi/HIpLeOpg5Gh/gWXHGr1FQAlWsIdSCaIcwGJuLDoPEESNco4\nAp3g5LuDnwWSvw2KClTYdpxUnM19ifF644FEjEmlmhXELV4M0ItmpriPINmu2Ghn\nKUhT9gJ50ysgOj89wMF7w6/fBea5OZe+h44PR+A1gnR5D4fjLB5cr8hVOcG+tNyM\ngY1u9MB/AgMBAAECggEANDTkoDCwpVtu1qgQ1+k3P4mIt/9GBugN3G/WGI77vZnx\n7ne8wV3eJlODJQEXV//9b8M8vm/ozj9zAcQ7ArTGOBFdAxiFaoIHAQVPiHd5hNU5\nsnNEPjsR7AZqih4MRAcbcc18W9r2NeC0rR25IMR1QDUXKDobv+utTKkQp5YURc5N\n8VUqWow2C3g85wQKJYcUbFFAAUxqIKrNhby5twpR1RyGzBQulVzudWMcXlMiNxyd\n0y+tzEKLV+YZTlnSLUQOngINA0S9FfdoUX6Jy8oCLSBgyZbruBVTty0xGG95NhRM\n/MCXC7PL/rYKC4IqF2gbq5Y5ReFHk2ZExyNKH81WgQKBgQD0sZssCkd4JUBGDzjy\n1NiFI4kJMp1kJAp9qBD1pV/YE71lQwzTWSmWR+IvyT6v23Q1RDxFHo1ic2hnZ6PT\n1+WXmhoEfB7mxxVBgFyZ8+e2i4Iwhw+fi2VPk7EOTvISihoVjtlSVVH+k+wrvOxb\n/eZ5KOnVEIAm4Qilkbb7/f6MEwKBgQDACUe7g9+KwGbXCd8P+M41YCzZVhTtc3ww\nbYX9qR180zo9FtoS8hfY5urCOWkYcDgqvyXLCWyrgJ9Q6OjmnvfBApjbjgoTD3lX\nj+g2sYcu07FBN+84bnFB1LkVEe/8+tvJJguSWxpAvsjspDzN7yFYdhwFx8QwAb12\nTRV7pPAvZQKBgQCOlsiju0G2g46WxNwctWeO/gwm7fXFmzL50mw/mSTm12nwjkf1\nCOoxBqaJzi3XcHyhZafxZ0JgcnwOddiD5DWISGaM4n9nX+/FAbX0iKsoNtegy7OQ\n9zwMSTZN7jcmEo/srBd74Pgs76oaOrdJTAV36R2J6VmkTlIpmWYWJgalPQKBgQC2\nLdekV+XRPtgRNucrwtD1qAjEIjr2TTHKy4xq6W31Bnpgi/ZUNOFUvzSFD2vZaFSQ\nkQgshwNV7E63tk2Ew9isfWdAGo8KKAroe7hDcsWZMfEduw+xzGyblFAFYh/3MpEh\nUXt23ACa3aPFg8W/ZBWRU3MgNLS1CmGQAm7X/tBxVQKBgQDVLXleVpm4MDfLyo4P\nDWbMQOf6txdXagJyCyRBP1Gd8eWgeuVLznwqIGl81vTkJjI5Wf6JxsqJr1fy4ueV\nCuo2wCxplXxEqWbBU4DLKcDKgESqiREoY2OaJg9cQyUq5qxucsL6/RHty+OofzJ/\n7sP+S5J98OFU3cnIDGlnV+H+SQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "logging-monitoring-svc-account@anthos-test-358709.iam.gserviceaccount.com",
+  "client_id": "105392939497230220178",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/logging-monitoring-svc-account%40anthos-test-358709.iam.gserviceaccount.com"
+}

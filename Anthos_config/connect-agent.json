@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anthos-test-358709",
+  "private_key_id": "e8977232c7ff496b4a3c185133bc71df8e449146",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjCmACa/AhhvRg\nFhTQVIzd3Z1umAtJl8ZoyL27M5euF3/ZndI8rbcvzlRvF4xvroZV9OIW9p4sB5hX\n/LKpjRMWNGemkUqzUGJXeCoxzWHHE0Xz6s+PiU97XV4C6YlrVUmYUP6c1VaXRXZb\n+ZGhA43hqGmrLHsf25c0n/0rl/pTv4DlNla7CQTkJVOJogxCxK/XfNJn6JJW7Sf+\nqaw8MJ56tM7pVOKqiPzRtsiFqVHsWBQ8oMOyw4+nLIgXlbFbIsG5vzfQ7t+JhB6r\nZhq2Xmpg/nRGnnz+cnYMc1p+jymGSo/i3Z9YNSz8JEt+QRgbF6/al0vLQOIwrck5\nVUHTDFPTAgMBAAECggEAbugMimJLxTT1f1KKDFKhFWhClVm0edioVVtqQ14qhCJ6\nk8Vig72gNLwnxrTMJ2oruSWMpAcIsR1sr96DMAv3/OrQjy9+PCXSREQw6G8ZinPB\nwis8BTPgHbU4TVfjhwj8kGlQVzBnwjFuZfN9zhe8YTUxmSp7Ys6UCGL2+yqcX/fK\n50Kntlk7XzFk98C1/tsSN5JpzUzKM6/Wqr66BOoaWHxSzLig7efMe51gBkAcQ+yb\nywHZrQLIW1AsAzNYKUylvJt/WJZzGBagDi0UbWYPlF9K0M8wBKvxRa64yY2d2EFG\njvvGvxb6aURbfBMzWyEvI9i4cKr4Yb+lK3IvaL1BQQKBgQDxgU5pA26HA41EOOt8\nsqSCkmV0Xuzgyt3cD9+ezFmAqQMx4HRSImBrQSCxjl8WnpbGfll0fnTeNJXIU1J9\nCOfT5Mnn0AOPPhJsGyVzXGgmxvWr5TVWillM4CVzz5ena9sBc83VBST7jd1utg6g\npH39NxWQ8mKOH3G0qzK0Xla7MQKBgQDwqtKN3PShaQ5f8V2Ltk72uoXaHHEiV4nV\nCT8dexEARnxAH3raFFTRcg6JMOVLsj+F0VxuQX96FD3t6VblmTd3XJXFS6wQWbI2\nTrRDJsOzzh3WBZAaQIFS3qyfuGZDu0jQmEXhfcx7kobcREwfvTBuASWbniGBsIpw\nTGB8k202QwKBgEDGd+t+uiSIdVl5EuBtYeaLsZ6W314jy4H81/PVx6PUsUCtfUWS\nZt4dp9E36JU+kB5JQWEXke0PmaUThCp5OwUAdo8woePHuFU6qr7YaC8OalJitf2y\nOeV+sUzwvzJuoV0wXGLocFTwZhYNyrqXpBtIrQYlnP2VvX/B82WhcA3hAoGAIpPo\nfIlqfGZjslUzY4dmAPz7jkLX3l9FZl5Vux6bara102CyffK93PnOLNfhmeaaSdey\nuAShFCEkZLJJ0eMZnQSoYBhnOFIq0LKuI5fGNmc+0ikqcxsheY6Urr4Hs2ONKqs2\nHxe78WU0CyGk7kp4UtXHWXx2w/NhcJEIq91iq5ECgYEAvi8tMcHKzkdOHlAFAiV3\nZpuJeSVJArLeI5MR6Y/KvawlZJZWJ97a//62pBeRMK1vwCvA5Uvp85JUvEbXqdSn\n+rpJ/Ad3VxmKU9CZOQzEKe7SA39XzUTNXQPIzc+UnYCnk+5zkyfNeQsL5opimAR+\nRXMuoOebG0i8QCEXGcWSboc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "connect-agent-svc-account@anthos-test-358709.iam.gserviceaccount.com",
+  "client_id": "106961710939930056270",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/connect-agent-svc-account%40anthos-test-358709.iam.gserviceaccount.com"
+}
