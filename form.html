@@ -1,0 +1,36 @@
+
+<!doctype html>
+
+
+<head><title>LandingPage</title>
+    <meta charset=utf-8>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+</head>
+<body>
+<img src="/static/logo.png" alt="logo" width="250" height="150" center ><br><br>
+
+<form action="/submit" method="POST">
+    <label for="fname">First name: </label><br>
+    <input type="text" id="fname" name="fname"><br><br>
+    
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname"><br><br>
+    
+    <label for="dateOfBirth">dateOfBirth:</label><br>
+    <input type="date" id="dateOfBirth" name="dateOfBirth"><br><br>
+    
+    <label for="addresse">addresse:</label><br>
+    <input type="text" id="addresse" name="addresse"><br><br>
+
+
+    <label for="account_type">account_type:</label>
+    <select name="account_type" id="account_type">
+        <option value="Beneficiaire">Beneficiaire</option>
+        <option value="Fournisseur">Fournisseur</option>
+       
+    </select>
+    <br><br>
+        <button><a>Send</a></button><br>
+</form>
+
+</body>

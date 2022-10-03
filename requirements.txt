@@ -1,0 +1,12 @@
+flask
+flask_sqlalchemy
+psycopg2
+flask-cors # for allowing requests from frontend to backend....
+
+
+
+#for frontend, 
+#Node.js: The JavaScript runtime that you will use to run your frontend project.
+#Yarn: A package and project manager for Node.js applications.
+#Python: A recent Python 3 interpreter to run the Flask backend on.
+
